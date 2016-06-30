@@ -1,7 +1,8 @@
-using thw command line and touch typing.
+git log
+git diff
+git checkout
+git clone
 
-Using the diff -u allowed me to easily identify the differrences in code.
 
-How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
-Allow me to identify changes and developmetns more easilyA
+git diff 71d52709ddc4066e7a79a1d0a412e43429a0cdeb 547f4171a82ec6429d002c1acef357aec41d3f17
