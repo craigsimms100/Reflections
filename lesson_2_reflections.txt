@@ -1,0 +1,7 @@
+
+initialise repository
+git init 
+
+Git status
+
+git add
